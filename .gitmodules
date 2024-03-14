@@ -1,0 +1,3 @@
+[submodule "01S"]
+	path = 01S
+	url = git@github.com:Albandon/01S.git
